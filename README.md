@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ayush Singh.
 - 🤓 I am passionate about Generative AI and its recent advancements.
 - 🌱 Currently, I am a Grad student at Indian Institute of Science in Artificial Intelligence.
-- 💞️ I’m looking to collaborate on "Enhancing Context Length in Large Language Models".
+- 💞️ I’m looking to collaborate on project "Enhancing Context Length in Large Language Models".
 - 📫 You can reach out to me via LinkedIn (www.linkedin.com/in/ayush-singh-955641211)
 
 <!---
